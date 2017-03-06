@@ -5,4 +5,9 @@ class form_input extends CI_Controller {
     {
         $this->load->view('form_input_list');
     }
+    
+    function tes ()
+    {
+        
+    }
 }
